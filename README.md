@@ -32,4 +32,8 @@ If you'd like to contribute to the development of this app, feel free to submit 
 
 This app is licensed under the MIT License. See the `LICENSE` file for more information.
 
+## Acknowledgements
+For developing this preject, I have taken inspiration from this resource. You can check this too!!
+
+- [Java calculator app - Bro Code](https://www.youtube.com/watch?v=dfhmTyRTCSQ)
 
